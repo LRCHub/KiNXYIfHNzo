@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アオノオト",
+  "base_artist": "M!LK",
+  "createdAt": "2026-02-21T08:44:27.726337Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アオノオト",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_アオノオト_M!LK.txt"
+    }
+  ]
+}
